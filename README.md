@@ -11,7 +11,7 @@ Multi-dimensional Analysis: Explore labor force indicators based on different di
 		www folder: Discover captivating images that enhance the visual appeal of the dashboard, creating an immersive experience for users.
 		www folder contains 4 images that has  been used in dasboard 
 		exell data; they other 8 exell files that includes datasets used
-		
+		JIMMY & NGAMIJE:  a power point presentation for the dahboard
 
 		Getting Started
 		Clone the repository:(https://github.com/ngamijex/RLFS-2022-R-dashboard)
